@@ -15,4 +15,6 @@ public class Day2Demo {
 		This is coming from other team member
 		
 	*/
+	
+	String firstName = "Mohammed";
 }
