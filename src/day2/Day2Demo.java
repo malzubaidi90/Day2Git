@@ -19,4 +19,7 @@ public class Day2Demo {
 	String firstName = "Mohammed";
 	
 	char gender = 'M';
+	
+	
+	int x = 555;
 }
