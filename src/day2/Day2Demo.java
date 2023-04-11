@@ -22,4 +22,6 @@ public class Day2Demo {
 	
 	
 	int x = 555;
+	
+	String lastName = "Alzubaidi";
 }
